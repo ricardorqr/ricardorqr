@@ -3,17 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ricardorqr&label=Profile%20views&color=0e75b6&style=flat" alt="ricardorqr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ricardorqr" alt="ricardorqr" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on **personal projects helping other DevOps engineers improving their skills**
 
-- 👨‍💻 All of my projects are available at my [repository](https://github.com/ricardorqr?tab=repositories)
-
-- 📄 Know about my experiences in my [LinkedIn](https://www.linkedin.com/in/ricardorqr/)
+- 👨‍💻 All of my projects are available at [my repositories](my repositories)
 
 - 📫 How to reach me **ricardorqr@gmail.com**
+
+- 📄 Know about my experiences [in my LinkedIn](in my LinkedIn)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
