@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **personal projects helping other DevOps engineers improving their skills**
 
-- 👨‍💻 All of my projects are available at [my repositories](my repositories)
+- 👨‍💻 All of my projects are available at [my repositories](https://github.com/ricardorqr?tab=repositories)
 
 - 📫 How to reach me **ricardorqr@gmail.com**
 
-- 📄 Know about my experiences [in my LinkedIn](in my LinkedIn)
+- 📄 Know about my experiences [in my LinkedIn](https://www.linkedin.com/in/ricardorqr/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
