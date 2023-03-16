@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **personal projects helping other DevOps engineers improving their skills**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ricardorqr](https://github.com/ricardorqr)
+- 👨‍💻 All of my projects are available at [my [repository](https://github.com/ricardorqr?tab=repositories)](my [repository](https://github.com/ricardorqr?tab=repositories))
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ricardorqr/](https://www.linkedin.com/in/ricardorqr/)
+- 📄 Know about my experiences [in my [LinkedIn](https://www.linkedin.com/in/ricardorqr/)](in my [LinkedIn](https://www.linkedin.com/in/ricardorqr/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
